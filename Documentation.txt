@@ -1,0 +1,16 @@
+NodeJS
+npm init -y
+
+ExpressJS
+npm i express
+
+add .gitignore - this means when you deployed it to the GitHub it wont include it
+
+Nodemon - Automatically save the changes into the code while the server is running
+npm i nodemon -D
+
+Atlas MongoDB
+username: admin
+password: admin123
+
+Install the mongoDB in VSCODE
